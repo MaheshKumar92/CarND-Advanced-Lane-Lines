@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 # Advanced Lane Finding
 
+=======
+## Advanced Lane Finding
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+![Lanes Image](./examples/example_output.jpg)
+>>>>>>> 92d13c19d7812954c3f9a57f029cfdaf8a057484
 
 ### The goals / steps of this project are the following:
 ##### 1) Calibrate the camera and get camera matrix and distortion coefficients
